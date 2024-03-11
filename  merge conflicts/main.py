@@ -1,5 +1,5 @@
-def lazy_function():
-    pass
+def lazy_function(a, b):
+    print(a, b)
 
 
 print('hello boys')
