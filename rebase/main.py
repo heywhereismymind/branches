@@ -6,7 +6,9 @@ def lazy_function(a, b):
 
 
 def new():
-    pass
+    print('kypi slona')
+    print('kypi slona')
+    print('kypi slona')
 
 
 def my_future_function():
