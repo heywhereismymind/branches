@@ -1,14 +1,12 @@
 def lazy_function(a, b):
-    print('blablabla')
+    'blablabla.'
 
     print(a, b)
-    print('hello boys')
 
 
 def new():
     print('kypi slona')
-    print('kypi slona')
-    print('kypi slona')
+
 
 
 def my_future_function():
